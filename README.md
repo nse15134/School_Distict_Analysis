@@ -21,14 +21,14 @@ The results of the THS change were minimal across the aggregared district number
 
  
 
-### School Summary after ThS update
+### School Summary after THS update
  ![ss after](https://user-images.githubusercontent.com/98061420/155904949-a57d339d-f36e-4697-9af1-fffd9521501f.PNG)
 
 
 As we can see from the data above, removing the 9th grade has tremendously impacted the outcome for Thomas High Sschool and the passing percentages for both reading and math. It had little impact outside of THS numbers, but once we did make that change THS is now #2 by overall passing percentage.  There really is no significant change to scores by spending, size, or type of school. 
 
 
-##Summary
+## Summary
 1. Making the Nan change moved THS overall schools from the bottom ranking schools, to number 2 overall.  Telling us that the 9th graders at THS produced signifcantly worse results than the rest of the grades.
 
 2. This could potentitally have an impact on school type as well, if we were to recieve real results for the 9th grade population at THS.  We could see a flip in the charter vs. district dataframe.
